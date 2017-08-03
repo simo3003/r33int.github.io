@@ -1,0 +1,80 @@
+==================================================================
+https://keybase.io/r33int_
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://r33int.pw
+  * I am r33int_ (https://keybase.io/r33int_) on keybase.
+  * I have a public key with fingerprint 8685 D632 A917 85DE 7761  8C2A 
+C744 DCDC 138A AD78
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": 
+"012033211011c79a99008068a5de5b7d6c8888b0a5bed3721d9f858991183fd5f4170a",
+      "fingerprint": "8685d632a91785de77618c2ac744dcdc138aad78",
+      "host": "keybase.io",
+      "key_id": "c744dcdc138aad78",
+      "kid": 
+"0101bf10659b9819b2f9fa49cc526a654cc5c10fa253db497a4544d3ee7e314ce6060a",
+      "uid": "6c73ca990ba70b8f04532f062fe29819",
+      "username": "r33int_"
+    },
+    "service": {
+      "hostname": "r33int.pw",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1501719934,
+  "expire_in": 157680000,
+  "prev": 
+"d851bece73452eba475d82ae1ad793481fdfe98bf781d5ade371ccb349880708",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.73
+Comment: https://keybase.io/crypto
+
+yMNtAnicbVJrTBRXGN2VVyGogIG2FHaTAUJDtnTuvGdNN1XE0hBgoxC0SLfzuANT
+YXfdXRaQAuFRLBRrpMUAUUt8QU23xlYwEqMsFRdrU1sj0vJs00oxyqYtBbUF7Qyp
+P5r0+3Pv/XLOuec7+a6sDdCEaX1bJic3tHgqtNe9H5VpdtaX1lQhvE2sRIxVyG64
+esASETpdlt2yiBgRFGAojmMAoAAINMuxLIoyKMVwpAhJnhYpgVGKRzmShyJOY0Bk
+JYZkWBYABpdEUiIAjXKIAZFkaxF02B2y1aXIMhRDihSOcSyglRukaQowAsYJNEGI
+gigAnOE4kWYUYrHNqTIUczznhKmyTekpD8uqvf/BP/WNAl4CKEWyPMsAlsckVuII
+VhBIjOIoklAuAkAlDiNxkSdYmiNIRQqHkIY4IARIodSq77JVOUqgcUEdnudolGck
+lCBxTEIpTIKYKq8CndBh5UqhgnbguDKmBak2IErTLQtQzVUd5D+AVHu5wrM7bC6b
+YCtR2sUul91pVGmuSruKK4e85V8FCy9bRSVDheGGDqdssyJGoCAFl6xKAhIFNGBZ
+nDAgsMIuO6BFVhEkTTGoUuo/0K1IigwJeChAGidIDPIcQZMig3EQKPEpbAZIogRZ
+hpdoBogkJ0KcBoLA4wTLMCiNqgk74R6rDTFitOKTK1I0nXKRlXOVOSBSPeTdFajR
+hmmCg9aoy6UJC414unK+Y+sfJ9c9ExKecUovpX+w5uFoaMXO+KyjmS1bXjR4k0xT
+4/d6zOEZT0zWV6/rmlO7JpHB9eayiaHovBV732vTzag5LSz2wOmoX2ZWsqPo2nU7
+GmbfeX90eNOmU7XJCy0/So1fWOoeJVX78gcNZud7uvpzx/d9T+nfGskJGv4ss6D/
+t7amNpO15rbe0F/z8rUx6X5aW9235/dOePilfa6CtqEMjzd+uPzs1T+jaj7GKhIt
+BxvKj0VG/DpTE9eXXBm/GJ0wHXymdTM1XZsRcTB74+kHoVEdU+c9Z7sx/Ywj7dK2
+iDsbtcaCBU9Ke2qs78JU5Fh8kOWNrdHb4272dV66sPabH5abQpJyPtXzMQcWqNl1
+qX/1/PQKUjKQ1/nJrZbiLmZyvmqq+Ubv9ivBR3MtQ+lz8/eYcaHpj8Nzx1vHZX/u
+cPKhLN27/V8XVoykH1qkt3a795/0N+45+cLrxO3c/DOBjaaSwKmYgsv+gQ0PYunB
+khTP3dKLkb1LvddEXdl0gnb+TtcRT4zmKuXvmNA+9DbkheuifF/+fqNwJWH5ROmO
+ouWudlPm3kR/1pGx3ptvWpcvJ6WNbo7+vOo74tYwAgJCZncVun3ehA7X3+OJfv02
+U2v74mTnuSfd1YYT93WH/YavsuVgKeBuSmZRT1L9SG+zM+dtd5x5buDx0kvPfRjd
+9OzF/PXP//zIzPwDvrS9qg==
+=3NXa
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/r33int_
+
+==================================================================
+
